@@ -6,7 +6,7 @@ public class playerMovement : MonoBehaviour
 {
     //the player object
     public BoxCollider2D elCollider;
-    public Rigidbody elRigidBody;
+    public Rigidbody2D elRigidBody;
     //movement speed
     public float mvmtSpeed = 0;
     //jump
