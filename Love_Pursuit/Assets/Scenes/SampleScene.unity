@@ -937,8 +937,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   elCollider: {fileID: 651499890}
   elRigidBody: {fileID: 651499891}
-  mvmtSpeed: 0
-  jumpPower: 0
+  mvmtSpeed: 2
+  jumpPower: 2
 --- !u!212 &651499889
 SpriteRenderer:
   m_ObjectHideFlags: 0
